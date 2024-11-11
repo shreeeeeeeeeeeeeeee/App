@@ -36,7 +36,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/yourusername/BirthDeathRegistrationApp.git
+git clone https://github.com/shreeeeeeeeeeeeeeee/App/tree/main
 cd BirthDeathRegistrationApp
 Open the Project in Android Studio
 
